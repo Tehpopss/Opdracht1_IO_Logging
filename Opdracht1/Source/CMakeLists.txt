@@ -4,4 +4,4 @@ project (Opdracht1)
 add_executable(Opdracht1 main.c)
 include_directories(/usr/include/mariadb /usr/include/mariadb/mysql)
 
-# target_link_libraries(PJ_RPI mariadb)
+target_link_libraries(Opdracht1 mariadb PJ_RPI)
