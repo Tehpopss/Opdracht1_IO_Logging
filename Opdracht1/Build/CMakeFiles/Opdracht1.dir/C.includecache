@@ -7,4 +7,14 @@
 #IncludeRegexTransform: 
 
 /home/pi/Embedded2/PJ_RPI/Opdracht1/Source/main.c
+PJ_RPI.h
+/home/pi/Embedded2/PJ_RPI/Opdracht1/Source/PJ_RPI.h
+stdio.h
+-
+time.h
+-
+mysql.h
+-
+stdlib.h
+-
 
